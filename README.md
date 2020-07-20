@@ -11,5 +11,5 @@ scratch. The ResNet model obtained 99% accuracy on the testing dataset, whereas 
 2. numpy
 3. torch
 4. torchvision
-5. matplotlib
+5. matplotlib  
 If any of these packages are not already installed, they can be installed using the conda install commands. 
